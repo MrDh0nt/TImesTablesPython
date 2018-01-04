@@ -14,5 +14,3 @@ The first line of code imports the script, 'timesTablePattern' is the name of th
 The second line of code draws the beautiful patterns you choose by changing the 2 taken variables by the script. The first variable assigns how many dots there are spaced out on the circle. The second variable is the multiplier, you can get beautiful patterns by changing these two variables.
 
 For a better understanding on how this piece of code works, I suggest watching the video on YouTube: https://youtu.be/qhbuKbxJsk8
-
-I might make a YouTube video myself once I have some time for it. If so I'll put a link here as well...
